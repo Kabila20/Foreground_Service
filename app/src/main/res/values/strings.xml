@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Foreground_Service</string>
+    <string name="enter_person_name">enter person name</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="button1">Button</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+</resources>
